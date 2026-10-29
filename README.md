@@ -32,7 +32,7 @@
 * 🦀 **Tauri Framework (`tauri-apps`)**: Official verified contributor to the Tauri v2 ecosystem (**Rank #6 Global Contributor / #4 Human Worldwide** to `plugins-workspace` with 4 merged commits: PRs [#3676](https://github.com/tauri-apps/plugins-workspace/pull/3676), [#3701](https://github.com/tauri-apps/plugins-workspace/pull/3701), [#3702](https://github.com/tauri-apps/plugins-workspace/pull/3702), and [#3707](https://github.com/tauri-apps/plugins-workspace/pull/3707); Core Tauri PR [#16265](https://github.com/tauri-apps/tauri/pull/16265) Milestone 2.13 co-authored with Tauri Co-Founder Lucas Fernandes Nogueira).
 * 🪟 **Microsoft PowerToys (`microsoft/PowerToys`)**: Verified merged contributor to Microsoft's flagship Windows utility suite ([PR #51126](https://github.com/microsoft/PowerToys/pull/51126) merged into `main`).
 * 📘 **Meta / Facebook (`facebook/docusaurus`)**: Open-source contributor to Meta's flagship documentation framework ([PR #12622](https://github.com/facebook/docusaurus/pull/12622)).
-* 📦 **Microsoft Windows Package Manager (`winget`)**: Author & publisher of [`Win-Optimizer-Pro`](https://github.com/karan5028ji/Win-Optimizer-Pro) (`winget install karan5028ji.WinOptimizerPro` — *v2.1.7 merged*).
+* 📦 **Microsoft Windows Package Manager (`winget`)**: Author & publisher of [`Win-Optimizer-Pro`](https://github.com/kxrn-gupta/Win-Optimizer-Pro) (`winget install kxrn-gupta.WinOptimizerPro` — *v2.1.7 merged*).
 * 🎓 **Microsoft Learn Student Ambassador**: Registered Member (`studentamb_664130`) & **Microsoft Certified AI Agent Builder** (*Credential `E33784E386894D86`*).
 * 📰 **Featured In Press & Tech Media**: Profiled across independent tech publications including [TechYorker](https://techyorker.com/karan-gupta-what-to-know-about-the-music-producer-building-local-ai/), [iTechGuides](https://www.itechguides.com/kxrns-local-ai-work-music-software-and-the-meaning-of-zero-cost/), [GeekChamp](https://geekchamp.com/local-ai-on-limited-resources-how-music-producer-kxrn-connects-code-and-sound/), [MobilesTalk](https://mobilestalk.net/what-kxrns-profile-reveals-about-building-local-ai-on-a-budget/), and [HackerNoon](https://hackernoon.com/behind-the-code-how-a-19-year-old-music-producer-builds-zero-cost-ai-systems) for pioneering zero-cost local AI systems and music engineering.
 * 🎓 **Harvard University Certified**: Double CS50 credentialed in [AI with Python](https://cs50.harvard.edu/certificates/ab707528-9255-4c2f-afa0-9fe5e7d4e45e) & [Computer Programming](https://cs50.harvard.edu/certificates/27e93e59-72dd-4da4-ba83-b8a487f5efd1).
@@ -64,12 +64,12 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=karan5028ji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karan5028ji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kxrn-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kxrn-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karan5028ji/karan5028ji/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/kxrn-gupta/kxrn-gupta/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
